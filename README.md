@@ -130,7 +130,7 @@ streamlit run prediction.py
 
 Dashboard ini menyajikan score card yang menampilkan metrik penting seperti jumlah karyawan, attrition rate, departemen, rata-rata masa kerja, dan metrik lainnya dari dataset karyawan Perusahaan Jaya Jaya Maju. Terdapat juga line chart yang menggambarkan tingkat atau jumlah attrition berdasarkan kelompok usia dan jarak rumah ke tempat kerja. Selain itu, dashboard ini menampilkan jumlah karyawan berdasarkan tingkat pendidikannya serta job satisfaction rating untuk semua job role. Terdapat juga pie chart yang menunjukkan perbandingan tingkat attrition berdasarkan gender, department, dan marital status. Dashboard ini juga dilengkapi dengan filter.
 
-<video src="maulanakavaldo-video.mp4" controls></video>
+<img src="maulanakavaldo-dashboard.png" height="600" alt="Database Supabase" height="300">
 
 ## Conclusion
 
